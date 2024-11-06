@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "bookinghotel",
+			"path": "."
+		},
+		{
+			"name": "pages",
+			"path": "../hotel/pages"
+		}
+	],
+	"settings": {}
+}
